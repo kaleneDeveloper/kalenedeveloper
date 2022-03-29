@@ -1,6 +1,6 @@
 ### Kalene Apiou
 
-Je suis kalene APIOU je viens de France, et je suis développeur web dans la conception de site internet. J'utilise les language JavaScript, HTML & CSS et les frameworks comme Vue.js, node.js et express.
+Je suis kalene APIOU je viens de France, et je suis développeur web orienté dans la conception de site internet. J'utilise les language JavaScript, HTML & CSS et les frameworks comme Vue.js, node.js et express.
 
 ## Languages
 * <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
